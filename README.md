@@ -2,7 +2,7 @@
 
 ## Overview
 
-Deploy a fullstack application (React frontend and Node.js backend) using containerization, CI/CD pipelines, and monitoring tools. The deployment must be performed on AWS EC2 using the AWS free tier. You will take your existing applications (A Node.js backend and React frontend) and:
+Deploy a React and Nodejs application (React frontend and Node.js backend) using containerization, CI/CD pipelines, and monitoring tools. The deployment must be performed on AWS EC2 using the AWS free tier. You will take your existing applications (A Node.js backend and React frontend) and:
 
 * Build a CI/CD pipeline using GitHub Actions
 * Containerize the applications using Docker
